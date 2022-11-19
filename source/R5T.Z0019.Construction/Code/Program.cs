@@ -7,7 +7,7 @@ namespace R5T.Z0019.Construction
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Try.Instance.ExampleProjectFilePath();
         }
     }
 }
